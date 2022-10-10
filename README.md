@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alex Malan!
 
 ---
-A Senior Software Developer specializing in Python technologies. Professional experience with the technologies listed in the **toolbox** below.
+Senior Software Developer specializing in Python technologies. Professional experience with the technologies listed in the **toolbox** below.
 
 I have a never-ending Reading List with very interesting articles across multiple domains that I have started to post on LinkedIn.
 
