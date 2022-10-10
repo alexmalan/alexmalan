@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" >
-
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alex Malan!
 
 <a href="https://www.linkedin.com/in/malanalex/"><img src="https://img.shields.io/badge/-alexmalan-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -54,7 +52,6 @@ Pick a slot if you'd like to meet me - make sure to describe the agenda
 ---
 
 ## Latest LinkedIn Posts
-
 #### I have a never-ending Reading List with very interesting articles across multiple domains that I have started to post on LinkedIn.
 
 - [Market Rates](https://www.linkedin.com/posts/malanalex_the-trimodal-nature-of-software-engineering-activity-6977978190556225536-eHMd?utm_source=share&utm_medium=member_desktop)
@@ -68,7 +65,8 @@ Pick a slot if you'd like to meet me - make sure to describe the agenda
 
 ---
 
-## &#x1f4c8; GitHub Stats
+### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmalan&layout=compact&exclude_repo=Manchester_University,Stendhal,Project.us,alexmalan.github.io,MMU&hide=Handlebars)](https://github.com/alexmalan/github-readme-stats)
 
+---
