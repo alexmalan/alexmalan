@@ -22,9 +22,8 @@ Find me on <a class="badge-base__link LI-simple-link" href="https://ro.linkedin.
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
 ---
 
 Latest LinkedIn Posts
