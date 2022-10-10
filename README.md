@@ -1,5 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alex Malan!
 
+<a href="https://www.linkedin.com/in/malanalex/"><img src="https://img.shields.io/badge/-alexmalan-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:alex@recoders.io"><img src="https://img.shields.io/badge/-alex@recoders.io-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 ---
 Senior Software Developer specializing in Python technologies. Professional experience with the technologies listed in the **toolbox** below.
 
@@ -25,6 +28,22 @@ Find me on <a class="badge-base__link LI-simple-link" href="https://ro.linkedin.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="50" height="50"/>
 ---
+* You know when you try to learn a new technology and there are always chunks on the web with little to zero best practices? I am in the process of making some small apps that would work with different technologies. 
+
+| Project                         | Status            
+| --------------------------------|--------------------
+| **Django REST API with OAuth**  | **In Progress**   |
+| Django with Redis and Celery    | Chatloop Update   |
+| Django REST with AWS services   |                   | 
+| Django with Scrapy jobs         |                   | 
+| Flask RESTX API with OAuth      |                   |
+| Flask RESTX API with JWT        |                   |
+| Fast API REST                   |                   | 
+| Django REST Password Policies   |                   | 
+| Django REST with Azure services |                   |
+| Django with asyncio             |                   | 
+
+---
 
 Latest LinkedIn Posts
 
@@ -42,3 +61,6 @@ Latest LinkedIn Posts
 ## &#x1f4c8; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmalan&layout=compact&exclude_repo=Manchester_University,Stendhal,Project.us,alexmalan.github.io,MMU&hide=Handlebars)](https://github.com/alexmalan/github-readme-stats)
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
