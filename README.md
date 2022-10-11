@@ -28,18 +28,18 @@
 ### You know when you try to learn a new technology and there are only chunks on the web? 
 ###### I am in the process of developing "tutorial" apps that would work with different technologies and apply the best practices.
 
-| Project                         | Status            |
-| --------------------------------|--------------------
-| **Django REST API with OAuth**  | **In Progress**   |
-| Django with Redis and Celery    | Chatloop Update   |
-| Django REST with AWS services   | Upcoming          | 
-| Django with Scrapy jobs         | Upcoming          | 
-| Flask RESTX API with OAuth      | Upcoming          |
-| Flask RESTX API with JWT        | Upcoming          |
-| Fast API REST                   | Upcoming          | 
-| Django REST Password Policies   | Upcoming          | 
-| Django REST with Azure services | Upcoming          |
-| Django with asyncio             | Upcoming          | 
+| Project                         | Status            | Project                         | Status            |
+| --------------------------------|-------------------| --------------------------------|--------------------
+| **Django REST API with OAuth**  | **In Progress**   | Django REST with Basic Auth     | Done              |
+| Django with Redis and Celery    | Chatloop Update   | Django REST with JWT Auth       | Done              |
+| Django REST with AWS services   | Upcoming          | Flask RESTX with                | Done              |
+| Django with Scrapy jobs         | Upcoming          | Django with Celery              | Done              |
+| Flask RESTX API with OAuth      | Upcoming          |                                 |                   |
+| Flask RESTX API with JWT        | Upcoming          |                                 |                   |
+| Fast API REST                   | Upcoming          |                                 |                   |
+| Django REST Password Policies   | Upcoming          |                                 |                   |
+| Django REST with Azure services | Upcoming          |                                 |                   |
+| Django with asyncio             | Upcoming          |                                 |                   |
 
 ---
 
