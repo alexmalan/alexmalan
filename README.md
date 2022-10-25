@@ -30,15 +30,12 @@
 | Project                         | Status            | Project                         | Status            |
 | --------------------------------|-------------------| --------------------------------|--------------------
 | **Django REST API with OAuth**  | **In Progress**   | Django REST with Basic Auth     | Done              |
-| Django with Redis and Celery    | Chatloop Update   | Django REST with JWT Auth       | Done              |
-| Django REST with AWS services   | Upcoming          | Flask RESTX with                | Done              |
-| Django with Scrapy jobs         | Upcoming          | Django with Celery              | Done              |
-| Flask RESTX API with OAuth      | Upcoming          |                                 |                   |
-| Flask RESTX API with JWT        | Upcoming          |                                 |                   |
-| Fast API REST                   | Upcoming          |                                 |                   |
-| Django REST Password Policies   | Upcoming          |                                 |                   |
-| Django REST with Azure services | Upcoming          |                                 |                   |
-| Django with asyncio             | Upcoming          |                                 |                   |
+| Django REST with AWS services   | Upcoming          | Django REST with JWT Auth       | Done              |
+| Django REST with asyncio        | Upcoming          | Flask RESTX with Basic Auth     | Done              |
+| Django REST with Azure services | Upcoming          | Django with Redis and Celery    | To update         |
+| Flask RESTX API with OAuth      | Upcoming          | FastAPI with Scraping jobs      | Done              |
+| Flask RESTX API with JWT        | Upcoming          | Django with Redis, RabbitMQ, Celery and Docker |   Done                |
+
 
 ---
 
