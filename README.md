@@ -32,7 +32,7 @@
 | **Django REST API with OAuth**  | **In Progress**   | Django REST with Basic Auth     | Done              |
 | Django REST with AWS services   | Upcoming          | Django REST with JWT Auth       | Done              |
 | Django REST with asyncio        | Upcoming          | Flask RESTX with Basic Auth     | Done              |
-| Django REST with Azure services | Upcoming          | Django with Redis and Celery    | To update         |
+| Django REST with Azure services | Upcoming          | Django with Redis and Celery Periodic    | To update         |
 | Flask RESTX API with OAuth      | Upcoming          | FastAPI with Scraping jobs      | Done              |
 | Flask RESTX API with JWT        | Upcoming          | Django with Redis, RabbitMQ, Celery and Docker |   Done                |
 
