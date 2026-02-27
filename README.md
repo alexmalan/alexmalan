@@ -1,9 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alex Malan!
 
 <a href="https://www.linkedin.com/in/malanalex/"><img src="https://img.shields.io/badge/-alexmalan-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:alex@recoders.io"><img src="https://img.shields.io/badge/-alex@recoders.io-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.recoders.io/"><img src="https://img.shields.io/badge/-recoders-3b5998?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-<a href="https://github.com/alexmalan/"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 
 ---
 
