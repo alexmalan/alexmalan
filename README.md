@@ -1,4 +1,4 @@
-### Hi there, I am Alex Malan!
+### Hi there, this is Alex!
 
 ---
 
