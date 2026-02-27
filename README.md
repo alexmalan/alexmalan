@@ -1,10 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Alex Malan!
-
-<a href="https://www.linkedin.com/in/malanalex/"><img src="https://img.shields.io/badge/-alexmalan-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+### Hi there, I am Alex Malan!
 
 ---
 
-🚀 Senior Software Developer specializing in Python technologies.
+🚀 Python Architect.
 
 ---
 
